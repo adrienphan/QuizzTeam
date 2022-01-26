@@ -1,28 +1,34 @@
 {
-  "users": [
+  "Users": [
 
     {
-      "id": 1,
-      "name": "Admin",
-      "password": "4dmin"
+      "Id": "1",
+      "Name": "Admin",
+      "Password": "4dmin"
     },
     {
-      "id": 2,
-      "name": "User",
-      "password": "useR"
+      "Id": "2",
+      "Name": "User",
+      "Password": "useR"
     }
   ],
-  "questions": [
+  "Questions": [
     "Quel est le prénom de Picsou ?",
     "Comment s'appelle la colline ou Picsou a son coffre ?",
     "D'ou vient le premier sous de Picsou ?",
     "Combien de neveux a Donald Duck ?"
   ],
-  "bonnes réponses": [
+  "RightAnswers": [
     "Balthazar",
     "Killmotor",
     "Amérique",
-    3
+    "3"
   ],
-  "réponses user": []
+  "UserAnswers": [],
+  "Data": 
+  {
+	  "Try": "0",
+	  "SuccessRate": "0",
+	  "AboveAverageNbr": "0"
+  }
 }
