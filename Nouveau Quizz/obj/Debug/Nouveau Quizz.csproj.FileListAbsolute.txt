@@ -1,0 +1,8 @@
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe.config
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.pdb
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.AssemblyReference.cache
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.SuggestedBindingRedirects.cache
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CoreCompileInputs.cache
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.exe
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.pdb
