@@ -10,6 +10,7 @@ namespace Nouveau_Quizz
     {
         static void Main(string[] args)
         {
+            Game.Play();
         }
     }
 }

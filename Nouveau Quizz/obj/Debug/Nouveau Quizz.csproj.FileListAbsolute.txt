@@ -1,0 +1,8 @@
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe.config
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Nouveau Quizz.pdb
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.exe
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.pdb
