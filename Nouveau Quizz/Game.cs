@@ -56,6 +56,7 @@ namespace Nouveau_Quizz
             //Display score
             Console.Clear();
             Console.WriteLine($"Quiz Terminé !\nScore : {score}");
+            Console.ReadKey();
             return userAnswers;
         }
         public static void Play()
@@ -73,7 +74,7 @@ namespace Nouveau_Quizz
             quiz.userAnswers = userAnswers;
             */
 
-            
+
             /*TODO: Once merged uncomment this
             //Add score to admin stats
             int tryNumber = Convert.ToInt32(quiz.Data.Try);
@@ -87,6 +88,31 @@ namespace Nouveau_Quizz
             */
 
             //proposer de rejour(r) ou de retourner au menu(q)
+            bool endgame = false;
+            while (!endgame)
+            {
+                Console.Clear();
+                Console.WriteLine("Souhaitez vous (r)ejouer ou (q)uitter ?");
+                ConsoleKeyInfo cki = Console.ReadKey();
+                if (cki.Key == ConsoleKey.R)
+                {
+                    endgame = true;
+                    //DEBUG delete when complete
+                    Console.WriteLine("Touche R pressée");
+                    Console.ReadKey();
+                    Play();
+                }
+                else if (cki.Key == ConsoleKey.Q)
+                {
+                    endgame = true;
+                    //DEBUG delete when complete
+                    Console.WriteLine("Touche Q pressée");
+                    Console.ReadKey();
+                    //Return to main menu
+                    return;
+                }
+            }
+            
         }
     }
 }
