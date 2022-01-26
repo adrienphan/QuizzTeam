@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Nouveau_Quizz.classes
 {
-    internal class Response
+    internal class UserAnswer
     {
-        public string CorrectAnswer { get; set; }
+        public string Answer { get; set; }
     }
 }
