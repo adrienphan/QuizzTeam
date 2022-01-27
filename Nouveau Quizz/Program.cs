@@ -13,6 +13,9 @@ namespace Nouveau_Quizz
     {
         static void Main(string[] args)
         {
+            Quiz quiz = JsonFileManage.GetJson();
+
+            Console.WriteLine(quiz);
         }
     }
 }

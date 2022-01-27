@@ -73,12 +73,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="classes\Question.cs" />
+    <Compile Include="classes\JsonFileManage.cs" />
     <Compile Include="classes\Quiz.cs" />
     <Compile Include="classes\QuizData.cs" />
-    <Compile Include="classes\RightAnswer.cs" />
     <Compile Include="classes\User.cs" />
-    <Compile Include="classes\UserAnswer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
