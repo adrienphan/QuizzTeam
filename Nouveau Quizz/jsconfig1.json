@@ -24,18 +24,11 @@
     "Amérique",
     "3"
   ],
-<<<<<<< HEAD
   "UserAnswers": [],
   "Data": 
   {
 	  "Try": "0",
 	  "SuccessRate": "0",
 	  "AboveAverageNbr": "0"
-=======
-  "réponses user": [],
-  "admin infos": {
-    "participations": 0,
-    "taux de réussite": 0
->>>>>>> 7d1283c997fff51332162e2c4034bcb398a5ec9b
   }
 }
