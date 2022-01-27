@@ -1,57 +1,26 @@
-<<<<<<< HEAD
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe.config
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.pdb
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.AssemblyReference.cache
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.SuggestedBindingRedirects.cache
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CoreCompileInputs.cache
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.exe
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.pdb
-=======
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe.config
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Nouveau Quizz.pdb
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.AssemblyReference.cache
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.SuggestedBindingRedirects.cache
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CoreCompileInputs.cache
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.exe
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.pdb
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Buffers.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Memory.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Json.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.ValueTuple.dll
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Buffers.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Memory.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Json.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.ValueTuple.xml
-C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CopyComplete
->>>>>>> 20f20e4fa4e2498c5c48c585118170902d2971ba
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Buffers.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Memory.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Json.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.ValueTuple.dll
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Buffers.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Memory.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Json.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.ValueTuple.xml
-D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CopyComplete
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe.config
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Nouveau Quizz.exe
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Nouveau Quizz.pdb
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Buffers.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Memory.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Text.Json.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.ValueTuple.dll
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Buffers.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Memory.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Text.Json.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\bin\Debug\System.ValueTuple.xml
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CopyComplete
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.exe
+C:\Users\adrie\Documents\La Manu\C# avancé\Nouveau Quizz\Nouveau Quizz\obj\Debug\Nouveau Quizz.pdb

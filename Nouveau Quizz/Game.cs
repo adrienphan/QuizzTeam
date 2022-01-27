@@ -47,10 +47,17 @@ namespace Nouveau_Quizz
                     score++;
                 }
                 //Next Question
+<<<<<<< HEAD
                 if (Array.IndexOf(questions, question) != questions.Length - 1)
                 {
                     Console.WriteLine("Question Suivante...");
                     Console.ReadKey();
+=======
+                if(Array.IndexOf(questions, question) != questions.Length - 1)
+                {
+                Console.WriteLine("Question Suivante...");
+                Console.ReadKey();
+>>>>>>> 9d4a1f3716033c11d7f3274cfec1425e2c567227
                 }
             }
             //Display score
@@ -112,7 +119,11 @@ namespace Nouveau_Quizz
                     return;
                 }
             }
+<<<<<<< HEAD
 
+=======
+            
+>>>>>>> 9d4a1f3716033c11d7f3274cfec1425e2c567227
         }
     }
 }

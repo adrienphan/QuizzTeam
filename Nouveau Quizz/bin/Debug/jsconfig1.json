@@ -1,0 +1,28 @@
+{
+  "users": [
+
+    {
+      "id": 1,
+      "name": "Admin",
+      "password": "4dmin"
+    },
+    {
+      "id": 2,
+      "name": "User",
+      "password": "useR"
+    }
+  ],
+  "questions": [
+    "Quel est le prénom de Picsou ?",
+    "Comment s'appelle la colline ou Picsou a son coffre ?",
+    "D'ou vient le premier sous de Picsou ?",
+    "Combien de neveux a Donald Duck ?"
+  ],
+  "bonnes réponses": [
+    "Balthazar",
+    "Killmotor",
+    "Amérique",
+    3
+  ],
+  "réponses user": []
+}
