@@ -45,7 +45,7 @@ namespace Nouveau_Quizz
                     if (passwordUser == "useR")
                     {
                         Console.WriteLine("Vous allez être dirigé vers le meilleur quiz au MONDE...");
-                        //Game.Play();
+                        Game.Play();
                     }
                     else
                     {
