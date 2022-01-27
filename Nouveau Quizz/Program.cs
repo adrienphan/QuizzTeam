@@ -13,7 +13,7 @@ namespace Nouveau_Quizz
     {
         static void Main(string[] args)
         {
-            //Quiz quiz = JsonFileManage.GetJson();
+            Quiz quiz = JsonFileManage.GetJson();
 
 
             //var user
@@ -25,11 +25,11 @@ namespace Nouveau_Quizz
                 //Ask the user his name
                 Console.WriteLine("Votre nom : (Admin ou User)");
                 user = Console.ReadLine();
-                if (user == "Admin") //show me the admin right password for associated with Admin
+                if (quiz.CheckLogInput(user) == "Admin") //show me the admin right password for associated with Admin
                 {
                     Console.WriteLine("Votre mot de passe : (4dmin)");
                     passwordUser = Console.ReadLine();
-                    if (passwordUser == "4dmin")
+                    if (quiz.CheckPwdInput(passwordUser, user) == "4dmin")
                     {
                         Console.WriteLine("Vous allez être dirigé vers l'espace administrateur...");
                     }
@@ -38,14 +38,14 @@ namespace Nouveau_Quizz
                         Console.WriteLine("Mot de passe incorrect");
                     };
                 }
-                else if (user == "User") //show me the admin right password for associated with User
+                else if (quiz.CheckLogInput(user) == "User") //show me the admin right password for associated with User
                 {
                     Console.WriteLine("Votre mot de passe : (useR)");
                     passwordUser = Console.ReadLine();
                     if (passwordUser == "useR")
                     {
                         Console.WriteLine("Vous allez être dirigé vers le meilleur quiz au MONDE...");
-                        //Game.Play();
+                        Game.Play();
                     }
                     else
                     {
