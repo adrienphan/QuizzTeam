@@ -36,3 +36,22 @@ C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Ext
 C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.ValueTuple.xml
 C:\romain\LaManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CopyComplete
 >>>>>>> 20f20e4fa4e2498c5c48c585118170902d2971ba
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Buffers.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Memory.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Json.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.ValueTuple.dll
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Buffers.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Memory.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Numerics.Vectors.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Encodings.Web.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Text.Json.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\bin\Debug\System.ValueTuple.xml
+D:\laManu\C#\QuizzTeam\Nouveau Quizz\obj\Debug\Nouveau Quizz.csproj.CopyComplete

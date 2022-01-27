@@ -13,13 +13,13 @@ namespace Nouveau_Quizz
     {
         static void Main(string[] args)
         {
-            //Quiz quiz = JsonFileManage.GetJson()
+            //Quiz quiz = JsonFileManage.GetJson();
+
 
             //var user
             string user;
             //var password's user
-            string passwordUser;
-
+            string passwordUser ="";
             do
             {
                 //Ask the user his name
@@ -33,6 +33,10 @@ namespace Nouveau_Quizz
                     {
                         Console.WriteLine("Vous allez être dirigé vers l'espace administrateur...");
                     }
+                    else
+                    {
+                        Console.WriteLine("Mot de passe incorrect");
+                    };
                 }
                 else if (user == "User") //show me the admin right password for associated with User
                 {
@@ -43,12 +47,16 @@ namespace Nouveau_Quizz
                         Console.WriteLine("Vous allez être dirigé vers le meilleur quiz au MONDE...");
                         //Game.Play();
                     }
+                    else
+                    {
+                        Console.WriteLine("Mot de passe incorrect");
+                    }
                 }
                 else
                 {
-                    Console.WriteLine("Veuillez saisir entre \"Admin\" et \"User\"");
+                    Console.WriteLine("Veuillez saisir un nom entre \"Admin\" et \"User\"");
                 };
-            }while(user=="Admin" && user=="User");
+            } while (passwordUser != "4dmin" || passwordUser != "useR");
         }
     }
 }
